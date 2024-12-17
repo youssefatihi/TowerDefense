@@ -28,13 +28,7 @@ sera traité avec la sévérité la plus brute.
 
 
 *
-------------------------------------------------------------------------------------------------------------------------------
-Authors :
-        Abderahim LAGRAOUI
-        Majid MEDGHALI
-        Moussa ALLOUBANE
-        Mohammed BOUHAJA
-------------------------------------------------------------------------------------------------------------------------------
+
 
 How to execute the game? => make clean; make build; make run
 
